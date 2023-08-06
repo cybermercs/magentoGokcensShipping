@@ -12,6 +12,7 @@
   4) php bin/magento module:enable Gokcens_Skyshipping
   5) php bin/magento setup:upgrade
 
-  ---------------------------------------------------
-
   
+ HOW TO USE
+ ---------------------------------------------------
+ https://github.com/cybermercs/magentoGokcensShipping/wiki/How-To-Use
